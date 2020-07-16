@@ -1,68 +1,45 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img src="https://aumni-public.s3.amazonaws.com/AUMNI_ALT_Horiz_Color-01.png" alt="Aumni Logo" width="200" height="55">
 
-## Available Scripts
+# Aumni Frontend Coding Challenge
+The purpose of this coding challenge is to gauge knowledge in React and JavaScript. In the coding challenge, you will build a React application that displays a very small subset of our domain at Aumni. Below you will find some helpful terminology to help you understand what these domain-specific terms mean.
 
-In the project directory, you can run:
+## Terminology
+- **Fund** - A Fund is a type of [Investment Vehicle](https://www.investopedia.com/terms/i/investmentvehicle.asp) that invests the money that it has raised into various **Companies**.
+- **Company** - A Company that a **Fund** invests in. Traditionally called a Portfolio Company from the perspective of the **Fund**. This is typically a start-up company that is trying to raise money.
 
-### `yarn start`
+## Setup/Notes
+1. Clone/Download this repository. This is a default Create React Application.
+2. Make your first commit by filling out the `code-challenge-notes.md` file in the root of this directory.
+3. Once you have made your first commit you will have 72 hours to make your final commit to complete the code challenge.
+4. Please do **NOT** push your code challenge solution to a public repository.
+5. This is a frontend coding challenge. Please do **NOT** spend your time building out any kind of backend service.
+6. You are allowed to install and use third-party packages.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Getting Started
+1. Run `yarn` to install dependencies.
+2. Run `yarn start` to start the application. The default URL and Port is `http://localhost:3000`.
+   
+## Base JSON Data
+You will find mock JSON data in the `src/mocks` directory of this project.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Goals
+- [ ] Develop some way to visualize the mock data easily (Table, List, Etc...).
+- [ ] Your solution showcases your CSS styling skills.
 
-### `yarn test`
+## Stretch Goals
+- [ ] Calculate a fund's multiple (Hint: https://investinganswers.com/dictionary/m/multiple).
+- [ ] Implement some type of routing solution to view a specific fund/company data.
+- [ ] We are starting to use visualizations to show this type of data in our real product. 
+      It would be cool to see you implement some visualizations from the mock data provided.
+- [ ] Modify/Add to the mock data to create a more interesting/rich experience.
+  
+## Acceptance Criteria
+- [ ] You have filled out the _required_ parts of the `code-challenge-notes.md` and made your first commit.
+- [ ] The code is well organized.
+- [ ] The code follows React/JavaScript best practices.
+- [ ] The code has good test coverage.
+- [ ] Your Git commit history is clean and meaningful.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+## Submission
+1. Zip your project up
+2. Email your project to [Aumni Eng Recruiting](mailto:eng-recruiting@aumni.fund)
