@@ -1,6 +1,6 @@
 <img src="https://aumni-public.s3.amazonaws.com/AUMNI_ALT_Horiz_Color-01.png" alt="Aumni Logo" width="200" height="55">
 
-# Aumni Frontend Coding Challenge
+# Aumni Front-end Coding Challenge
 The purpose of this coding challenge is to gauge knowledge in React and JavaScript. In the coding challenge, you will build a React application that displays a very small subset of our domain at Aumni. Below you will find some helpful terminology to help you understand what these domain-specific terms mean.
 
 ## Terminology
