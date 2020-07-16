@@ -8,7 +8,7 @@
         "name": "Greens Food Suppliers",
         "logo": "https://aumni-public.s3.amazonaws.com/fake-logos-vector-color/1.svg",
         "cost": 1700000,
-        "ownership percentage": 0.34,
+        "ownershipPercentage": 0.34,
         "impliedValue": 5700000,
         "founded": "2020-05-10"
       },
@@ -17,7 +17,7 @@
         "name": "AutoSpeed",
         "logo": "https://aumni-public.s3.amazonaws.com/fake-logos-vector-color/2.svg",
         "cost": 3500000,
-        "ownership percentage": 0.12,
+        "ownershipPercentage": 0.12,
         "impliedValue": 10000000,
         "founded": "2018-10-17"
       },
@@ -26,7 +26,7 @@
         "name": "Croft's Accountants",
         "logo": "https://aumni-public.s3.amazonaws.com/fake-logos-vector-color/3.svg",
         "cost": 500000,
-        "ownership percentage": 0.05,
+        "ownershipPercentage": 0.05,
         "impliedValue": 1500000,
         "founded": "2015-01-01"
       }
@@ -41,7 +41,7 @@
         "name": "Cheshire County",
         "logo": "https://aumni-public.s3.amazonaws.com/fake-logos-vector-color/4.svg",
         "cost": 250000,
-        "ownership percentage": 0.12,
+        "ownershipPercentage": 0.12,
         "impliedValue": 2000000,
         "founded": "2017-03-14"
       },
@@ -50,7 +50,7 @@
         "name": "Fast Banana",
         "logo": "https://aumni-public.s3.amazonaws.com/fake-logos-vector-color/5.svg",
         "cost": 3500000,
-        "ownership percentage": 0.35,
+        "ownershipPercentage": 0.35,
         "impliedValue": 10000000,
         "founded": "2018-12-27"
       }
@@ -65,7 +65,7 @@
         "name": "Yoga Baby",
         "logo": "https://aumni-public.s3.amazonaws.com/fake-logos-vector-color/6.svg",
         "cost": 100000,
-        "ownership percentage": 0.23,
+        "ownershipPercentage": 0.23,
         "impliedValue": 500000,
         "founded": "2004-10-11"
       },
@@ -74,7 +74,7 @@
         "name": "James & Sons",
         "logo": "https://aumni-public.s3.amazonaws.com/fake-logos-vector-color/7.svg",
         "cost": 5000000,
-        "ownership percentage": 0.29,
+        "ownershipPercentage": 0.29,
         "impliedValue": 7500000,
         "founded": "2013-06-14"
       },
@@ -83,7 +83,7 @@
         "name": "The Dance Studio",
         "logo": "https://aumni-public.s3.amazonaws.com/fake-logos-vector-color/8.svg",
         "cost": 150000,
-        "ownership percentage": 0.46,
+        "ownershipPercentage": 0.46,
         "impliedValue": 500000,
         "founded": "2018-11-09"
       },
@@ -92,7 +92,7 @@
         "name": "SpaceCube",
         "logo": "https://aumni-public.s3.amazonaws.com/fake-logos-vector-color/9.svg",
         "cost": 600000,
-        "ownership percentage": 0.02,
+        "ownershipPercentage": 0.02,
         "impliedValue": 1200000,
         "founded": "2013-10-19"
       },
@@ -101,7 +101,7 @@
         "name": "Baby Swim",
         "logo": "https://aumni-public.s3.amazonaws.com/fake-logos-vector-color/10.svg",
         "cost": 360000,
-        "ownership percentage": 0.28,
+        "ownershipPercentage": 0.28,
         "impliedValue": 780000,
         "founded": "2005-09-05"
       }
