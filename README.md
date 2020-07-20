@@ -9,14 +9,20 @@ The purpose of this coding challenge is to gauge knowledge in React and JavaScri
 
 ## Setup/Notes
 1. Clone/Download this repository. This is a default Create React Application.
+
 2. Make your first commit by filling out the `code-challenge-notes.md` file in the root of this directory.
+
 3. Once you have made your first commit you will have 72 hours to make your final commit to complete the code challenge.
+
 4. Please do **NOT** push your code challenge solution to a public repository.
+
 5. This is a frontend coding challenge. Please do **NOT** spend your time building out any kind of backend service.
+
 6. You are allowed to install and use third-party packages.
 
 ## Getting Started
 1. Run `yarn` to install dependencies.
+
 2. Run `yarn start` to start the application. The default URL and Port is `http://localhost:3000`.
    
 ## Base JSON Data
@@ -41,5 +47,6 @@ You will find mock JSON data in the `src/mocks` directory of this project.
 - [ ] Your Git commit history is clean and meaningful.
 
 ## Submission
-1. Zip your project up
+1. Zip your project up.
+
 2. Email your project to [Aumni Eng Recruiting](mailto:eng-recruiting@aumni.fund)
