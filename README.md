@@ -33,7 +33,7 @@ You will find mock JSON data in the `src/mocks` directory of this project.
 - [ ] Your solution showcases your CSS styling skills.
 
 ## Stretch Goals
-- [ ] Calculate a fund's multiple (Hint: https://investinganswers.com/dictionary/m/multiple).
+- [ ] Calculate a fund's multiple (Hint: This calculation is derived from the `impliedValue` and `cost` data points in the mocks).
 - [ ] Implement some type of routing solution to view a specific fund/company data.
 - [ ] We are starting to use visualizations to show this type of data in our real product. 
       It would be cool to see you implement some visualizations from the mock data provided.
