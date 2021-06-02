@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "./images/aumni-logo.png";
+import logo from "./images/logo.png";
 import "./App.css";
 
 function App() {
