@@ -47,8 +47,6 @@ You will find mock JSON data in the `src/mocks` directory of this project.
 - [ ] Your Git commit history is clean and meaningful.
 
 ## Submission
-1. Zip your project up.
 
-2. Upload your zip to http://file.io using the "Upload" button or the `cURL` commands
-
-3. Email the file download URL to [Aumni Eng Recruiting](mailto:eng-recruiting@aumni.fund)
+1. When you have your final commit complete, please zip up your entire folder.
+2. Once you have coding submission zipped up, please upload it as per ![UploadSubmission.png](https://github.com/Aumni-Fund/node-coding-challenge/blob/master/UploadSubmission.png).
