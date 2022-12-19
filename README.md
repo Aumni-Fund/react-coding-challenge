@@ -49,4 +49,4 @@ You will find mock JSON data in the `src/mocks` directory of this project.
 ## Submission
 
 1. When you have your final commit complete, please zip up your entire folder.
-2. Once you have coding submission zipped up, please upload it as per ![UploadSubmission.png](https://github.com/Aumni-Fund/node-coding-challenge/blob/master/UploadSubmission.png).
+2. We use Breezy as our ATS (Applicant Tracking System), you should have received and email with a link to Breezy to submit your zip file. If you did not get the email or can't find it, reach out to eng-recruiting@aumni.fund for a new link.
