@@ -48,5 +48,4 @@ You will find mock JSON data in the `src/mocks` directory of this project.
 
 ## Submission
 
-1. When you have your final commit complete, please zip up your entire folder.
-2. We use Breezy as our ATS (Applicant Tracking System), you should have received and email with a link to Breezy to submit your zip file. If you did not get the email or can't find it, reach out to recruiting_eng@aumni.fund for a new link.
+The technical interview with the team will be one hour long. Please prepare the technical challenge ahead of time and bring it to that pairing session with the team. They will bring some questions about your implementation and possibly some refactor ideas. 
